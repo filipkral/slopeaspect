@@ -1,0 +1,2 @@
+# slopeaspect
+[DEMO] Calculate slope and aspect of a digital terrain model
